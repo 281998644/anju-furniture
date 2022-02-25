@@ -1,0 +1,197 @@
+{
+    "products": [
+        {
+            "id": "001",
+            "name":"北京",
+            "img": "../../assets/upload/host-img-box1.png",
+            "info": "第一个测试的家具 ",
+            "newPrice": 735.79,
+            "oldPrice": 935.79,
+            "jiaju":"餐厅家具",
+            "color":"红色",
+            "jiegou":"框架结构"
+        },
+        {
+            "id": "002",
+            "img": "../../assets/upload/host-img-box2.png",
+            "info": "第二个测试的家具 ",
+            "newPrice": 435.79,
+            "oldPrice": 635.79,
+            "jiaju":"卧室家具",
+            "color":"绿色",
+            "jiegou":"支架结构"
+        },
+        {
+            "id": "003",
+            "img": "../../assets/upload/host-img-box3.png",
+            "info": "第三个测试的家具 ",
+            "newPrice": 635.79,
+            "oldPrice": 835.79,
+            "jiaju":"书房家具",
+            "color":"灰色",
+            "jiegou":"组装式架子床"
+        },
+        {
+            "id": "004",
+            "img": "../../assets/upload/host-img-box4.png",
+            "info": "第四个测试的家具",
+            "newPrice": 1135.79,
+            "oldPrice": 1235.79,
+            "color":"其他",
+            "jiaju":"玄关家具",
+            "jiegou":"其他"
+
+        },
+        {
+            "id": "005",
+            "img": "../../assets/upload/host-img-box1.png",
+            "info": "第五个测试的家具 ",
+            "newPrice": 2235.79,
+            "oldPrice": 2935.79,
+            "color":"其他",
+            "jiaju":"商务家具"
+        },
+        {
+            "id": "006",
+            "img": "../../assets/upload/host-img-box2.png",
+            "info": "第六个测试的家具 ",
+            "newPrice": 3835.79,
+            "oldPrice": 4235.79,
+            "jiaju":"卧室家具",
+            "color":"绿色",
+            "jiegou":"支架结构"
+        },
+        {
+            "id": "007",
+            "img": "../../assets/upload/host-img-box3.png",
+            "info": "第七个测试的家具 ",
+            "newPrice": 1335.79,
+            "oldPrice": 1835.79,
+            "jiaju":"卧室家具",
+            "color":"绿色",
+            "jiegou":"支架结构"
+        },
+        {
+            "id": "008",
+            "img": "../../assets/upload/host-img-box4.png",
+            "info": "第一个测试的家具",
+            "newPrice": 2235.79,
+            "oldPrice": 2335.79,
+            "jiaju":"餐厅家具",
+            "color":"其他",
+            "jiegou":"框架结构"
+        },
+        {
+            "id": "009",
+            "img": "../../assets/upload/host-img-box1.png",
+            "info": "第二个测试的家具 ",
+            "newPrice": 1735.79,
+            "oldPrice": 2935.79,
+            "jiegou":"其他"
+        },
+        {
+            "id": "010",
+            "img": "../../assets/upload/host-img-box2.png",
+            "info": "第三个测试的家具 ",
+            "newPrice": 2835.79,
+            "oldPrice": 3235.79,
+            "jiegou":"其他"
+        },
+        {
+            "id": "011",
+            "img": "../../assets/upload/host-img-box3.png",
+            "info": "第四个测试的家具 ",
+            "newPrice": 3635.79,
+            "oldPrice": 3835.79,
+            "jiaju":"书房家具",
+            "color":"灰色",
+            "jiegou":"组装式架子床"
+        },
+        {
+            "id": "012",
+            "img": "../../assets/upload/host-img-box4.png",
+            "info": "第五个测试的家具 ",
+            "newPrice": 3935.79,
+            "oldPrice": 4135.79
+        },
+        {
+            "id": "013",
+            "img": "../../assets/upload/host-img-box1.png",
+            "info": "第六个测试的家具 ",
+            "newPrice": 2735.79,
+            "oldPrice": 2935.79
+        },
+        {
+            "id": "014",
+            "img": "../../assets/upload/host-img-box2.png",
+            "info": "第七个测试的家具 ",
+            "newPrice": 3835.79,
+            "oldPrice": 4235.79,
+            "jiaju":"书房家具",
+            "color":"灰色",
+            "jiegou":"组装式架子床"
+        },
+        {
+            "id": "015",
+            "img": "../../assets/upload/host-img-box3.png",
+            "info": "第一个测试的家具 ",
+            "newPrice": 635.79,
+            "oldPrice": 835.79
+        },
+        {
+            "id": "016",
+            "img": "../../assets/upload/host-img-box4.png",
+            "info": "第二个测试的家具 ",
+            "newPrice": 2935.79,
+            "oldPrice": 3135.79,
+            "jiaju":"书房家具",
+            "color":"灰色",
+            "jiegou":"组装式架子床"
+        },
+        {
+            "id": "017",
+            "img": "../../assets/upload/host-img-box1.png",
+            "info": "第三个测试的家具 ",
+            "newPrice": 1735.79,
+            "oldPrice": 1935.79
+        },
+        {
+            "id": "018",
+            "img": "../../assets/upload/host-img-box2.png",
+            "info": "第四个测试的家具 ",
+            "newPrice": 835.79,
+            "oldPrice": 1235.79
+        },
+        {
+            "id": "019",
+            "img": "../../assets/upload/host-img-box3.png",
+            "info": "第五个测试的家具 ",
+            "newPrice": 1635.79,
+            "oldPrice": 1835.79,
+            "jiaju":"餐厅家具",
+            "color":"红色",
+            "jiegou":"框架结构"
+        },
+        {
+            "id": "020",
+            "img": "../../assets/upload/host-img-box4.png",
+            "info": "第六个测试的家具 ",
+            "newPrice": 935.79,
+            "oldPrice": 1135.79,
+            "jiaju":"餐厅家具",
+            "color":"红色",
+            "jiegou":"框架结构"
+        },
+        {
+            "id": "021",
+            "img": "../../assets/upload/host-img-box1.png",
+            "info": "第七个测试的家具 ",
+            "newPrice": 435.79,
+            "oldPrice": 535.79,
+            "jiaju":"餐厅家具",
+            "color":"红色",
+            "jiegou":"框架结构"
+        }
+
+    ]
+}

@@ -1,0 +1,33 @@
+html{
+  font-size: 24px;
+}
+body {
+    background-color: #495d54;
+    font-size: 24px;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  li {
+    list-style: none;
+    color: #fff;
+  }
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+  a:hover{
+    cursor: pointer;
+  }
+  .w {
+    width: 1200px;
+    margin: auto;
+  }
+  img {
+    vertical-align: bottom;
+  }
+  input{
+    outline: none;
+  }

@@ -1,0 +1,49 @@
+{
+    "products": [
+        {
+            "title": "chair",
+            "id": "001",
+            "img": "/img/host-img-box1.dd98a8e1.png",
+            "info":"北欧ins网红餐桌轻奢大理石餐桌椅组合简约后现代小户型饭桌家用 ",
+            "people": "6人桌",
+            "price": 935.79,
+            "num": 1
+        },
+        {
+            "title": "chair",
+            "id": "002",
+            "img": "/img/host-img-box1.dd98a8e1.png",
+            "info": "轻奢大理石餐桌椅组合简约后现代小户型饭桌家用,网红餐桌 ",
+            "people": "7人桌",
+            "price": 785.59,
+            "num": 1
+        },
+        {
+            "title": "chair",
+            "id": "003",
+            "img": "/img/host-img-box1.dd98a8e1.png",
+            "info": "网红餐桌轻奢大理石餐桌椅组合简约后现代小户型饭桌家用,ins网红餐桌 ",
+            "people": "8人桌",
+            "price": 529.99,
+            "num": 1
+        },
+        {
+            "title": "chair",
+            "id": "004",
+            "img": "/img/host-img-box1.dd98a8e1.png",
+            "info": "网红餐桌轻奢大理石餐桌椅组合简约后现代小户型饭桌家用,ins网红餐桌 ",
+            "people": "9人桌",
+            "price": 529.99,
+            "num": 1
+        },
+        {
+            "title": "chair",
+            "id": "005",
+            "img": "/img/host-img-box1.dd98a8e1.png",
+            "info": "网红餐桌轻奢大理石餐桌椅组合简约后现代小户型饭桌家用,ins网红餐桌 ",
+            "people": "10人桌",
+            "price": 529.99,
+            "num": 1
+        }
+    ]
+}
