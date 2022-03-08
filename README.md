@@ -2,7 +2,7 @@
 
 ## 该项目是一个名为“安居”的在线的家具商城官网，在设计方面，前期通过PS、AI、cooker等软件进行网页的构思与设计，制作草稿图与完成图，包括主页、详情页、在线商城等9个页面，在技术开发方面、运用了html、js、css、Vue全家桶（vuex、vueRouter）、axios、swiper（插件）等技术进行开发。
 
-## 1.整个项目是一个单页面，通过VueRouter路由的跳转实现多页面的转换
+## 1.整个项目是通过VueRouter路由的跳转实现多页面的转换
 主页
 ![image](https://github.com/281998644/anju-furniture/blob/master/images/homepage.png)
 ![image](https://github.com/281998644/anju-furniture/blob/master/images/homepage1.png)
