@@ -27,9 +27,8 @@
 ![image](https://github.com/281998644/anju-furniture/blob/master/images/signin.png)
 
 ## 优化方面
-  （1）做了SEO优化提高网站的排名
-  （2）节流与防抖、避免同一时间触发多次事件 （登录注册功能）
-  （3）图片的懒加载lazyload（使用vue中的vue-lazyload）
+  （1）节流与防抖、避免同一时间触发多次事件 （登录注册功能）
+  （2）图片的懒加载lazyload（使用vue中的vue-lazyload）
 
 
 
